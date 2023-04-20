@@ -18,7 +18,8 @@ To use this website, you need to have the following:
 
 ## Installation
 
-1. Download the latest version of Film Catalog from the GitHub repository. 
+1. Download the latest version of Film Catalog from the GitHub repository.
+2. Extract the downloaded ZIP file to the "wp-content/themes/" directory of your WordPress installation 
 ### !where the twentynineteen theme must be installed!
 3. In the WordPress admin panel, go to Appearance > Themes and activate the Film Catalog theme.
 4. You're now ready to use Film Catalog!
